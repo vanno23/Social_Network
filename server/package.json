@@ -19,7 +19,8 @@
   "type": "module",
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
